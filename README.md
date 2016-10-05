@@ -76,7 +76,7 @@ Start Database
 Start Plone
 
 ```
-bin/client1 fg
+/usr/local/Plone/zeocluster/bin/client1 fg
 ```
 
 Go to
